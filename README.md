@@ -4,5 +4,6 @@ Blockchain is a distributed immutable ledger which is completely transparent. Th
 
 MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 
-![Screenshot (93)](https://github.com/pra8953/Blockchain--Technology/assets/154659571/a6423385-0b13-4927-84f6-008a6d092cfa)
+![Capture](https://github.com/pra8953/Blockchain--Technology/assets/154659571/e5032d64-9b35-4f94-944e-07e2d76198b4)
+
 
