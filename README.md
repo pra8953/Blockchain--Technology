@@ -21,7 +21,7 @@ We made a smart contract EventContract.sol.
 
 
 # Code:
-
+// SPDX-License-Identifier: MIT
 pragma solidity >=0.5.0 <0.9.0;
 
 contract EventContract{
